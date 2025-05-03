@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": "ea7c",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVjTkgbNUJRL1W7uV64v8X-FT5UWZBEo3uA&s",
+        "https://officefurnitre-eg.com/wp-content/uploads/2020/02/paul-weaver-nWidMEQsnAQ-unsplash-scaled.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRIqmg_aAAiEmIPY3UC32IVRjYcOY-aimfew2QoML0GtxP_fmd3Ez3vp2DD1tK4S9vng&usqp=CAU"
+      ],
+      "name": "Safa",
+      "color": ["#e60000"],
+      "company": "IKEA",
+      "price": "$69.99",
+      "disc": "The Safa sofa blends bold color with minimalist design, perfect for modern interiors. The Safa sofa blends bold color with minimalist design, perfect for modern interiors.",
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "909c",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCuHcpvgb8Sn5hmI5Pt_ihZHhbZHF_vkaNA&s",
+        "https://images2.imgix.net/p4dbimg/1805/images/fjords-venice-ws-3seat-sl-storm.jpg?fit=fill&bg=FFFFFF&trim=color&trimtol=5&trimcolor=FFFFFF&w=768&h=576&fm=pjpg&auto=format",
+        "https://images2.imgix.net/p4dbimg/5/images/ss705-phl3-047-silo.jpg?trim=color&trimtol=5&trimcolor=FFFFFF&w=1024&h=768&fm=pjpg&auto=format"
+      ],
+      "name": "Lofa",
+      "color": ["#000000"],
+      "company": "IKEA",
+      "price": "$45.99",
+      "disc": "Lofa offers compact comfort with a sleek black finish, ideal for small spaces. Lofa offers compact comfort with a sleek black finish, ideal for small spaces.",
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "30c5",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZp2Y2exmO50ca2Bx6qZgWudFNHbSFROoIDg&s",
+        "https://rukminim2.flixcart.com/image/850/1000/xif0q/sofa-set/x/s/h/-original-imagrtbjkaby3x76.jpeg?q=20&crop=false"
+      ],
+      "name": "Baffa",
+      "color": ["#000000"],
+      "company": "CARESSA",
+      "price": "$21.99",
+      "disc": "A budget-friendly armchair with a durable build and elegant black look. A budget-friendly armchair with a durable build and elegant black look.",
+      "status": true,
+      "quantity": 1
+    },
+    {
+      "id": "8995",
+      "img": [
+        "https://www.shutterstock.com/image-photo/interior-light-living-room-grey-600nw-2338829017.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKfHM2A1sNONk2Xa5HFLMgfJnZMA1644P6bziwPRH274MPLEhshz51YZ0WYcfxdg7YcM&usqp=CAU"
+      ],
+      "name": "Zofra",
+      "color": ["#f000b0"],
+      "company": "LIDDY",
+      "price": "$39.95",
+      "disc": "Zofra is a stylish, eye-catching piece that brings energy to any room. Zofra is a stylish, eye-catching piece that brings energy to any room.",
+      "status": true,
+      "quantity": 1
+    },
+    {
+      "id": "b095",
+      "img": [
+        "https://5.imimg.com/data5/UX/PG/WO/SELLER-12803526/img-e0321.JPG",
+        "https://5.imimg.com/data5/SELLER/Default/2024/8/439527126/ML/AE/TS/89508662/teak-wood-royal-desiner-sofa-500x500.jpg"
+      ],
+      "name": "Raffo",
+      "color": ["#eaa4a4", "#0832d9"],
+      "company": "IKEA",
+      "price": "$69.99",
+      "disc": "Raffo combines soft pastel shades and bold blue tones for a unique aesthetic. Raffo combines soft pastel shades and bold blue tones for a unique aesthetic.",
+      "status": true,
+      "quantity": 1
+    },
+    {
+      "id": "15ca",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhQteMUdKDqUOqD__f3iGsCU88qfmTj9i5g&s",
+        "https://img.freepik.com/premium-photo/colorful-shot-modern-light-blue-sofa-white-wooden-table_951562-4177.jpg"
+      ],
+      "name": "Tofa",
+      "color": ["#eb0000", "#ff00bb", "#001eff", "#00fffb", "#00ff2a", "#fbff00", "#ff4000"],
+      "company": "IKEA",
+      "price": "$39.95",
+      "disc": "Tofa features a vibrant rainbow color palette, perfect for creative spaces. Tofa features a vibrant rainbow color palette, perfect for creative spaces.",
+      "status": false,
+      "quantity": 1
+    }
+  ]
+}
