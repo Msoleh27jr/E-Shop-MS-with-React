@@ -18,7 +18,7 @@ This project is a modern internet shop called **E-Shop**, built with **React**. 
 
 ## 📁 Project Structure
 
-- **Frontend**: React (Vite or CRA), CSS  
+- **Frontend**: React 
 - **Backend**: Simulated using `json-server` with `db.json`
 
 ## ⚙️ How to Run Locally
